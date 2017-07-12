@@ -1,0 +1,888 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./A.P.B. - All Points Bulletin (USA, Europe).lnx</path>
+		<name>A.P.B. - All Points Bulletin (USA, Europe)</name>
+		<desc>In this real arcade game you and Officer Bob must search out and collar the perps who've engaged in such heinous criminal activities as littering, speeding, and assorted other forms of misconduct too despicable to mention! But while you're out there, patrolling the streets in Officer Bob's police car, don't forget to refuel! Stop in at your friendly neighborhood donut shop and gain extra time.
+There are innocent bystanders and vehicles in A.P.B. If you hit one you get demerits.</desc>
+		<image>./images/A.P.B. - All Points Bulletin (USA, Europe).png</image>
+		<thumbnail>./images/A.P.B. - All Points Bulletin (USA, Europe).png</thumbnail>
+		<releasedate>19910801T000000</releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Awesome Golf (USA, Europe).lnx</path>
+		<name>Awesome Golf (USA, Europe)</name>
+		<desc>You are on the 18th tee, one stroke behind the defending champion. Do you take your caddy's advice and play it safe, or do you risk the water? Awesome Golf provides great realism and a challenge for one to four players.</desc>
+		<image>./images/Awesome Golf (USA, Europe).png</image>
+		<thumbnail>./images/Awesome Golf (USA, Europe).png</thumbnail>
+		<rating>0.55</rating>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<playcount>2</playcount>
+		<lastplayed>20160506T063411</lastplayed>
+	</game>
+	<game>
+		<path>./Baseball Heroes (USA, Europe).lnx</path>
+		<name>Baseball Heroes (USA, Europe)</name>
+		<desc>Hit, run, dive, jump, catch and throw. Pitch for the strikeout record and swing for the fences! Play baseball against the Lynx or take on a friend. Four different games with super graphics!</desc>
+		<image>./images/Baseball Heroes (USA, Europe).png</image>
+		<thumbnail>./images/Baseball Heroes (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<playcount>1</playcount>
+		<lastplayed>20160518T094925</lastplayed>
+	</game>
+	<game>
+		<path>./Basketbrawl (USA, Europe).lnx</path>
+		<name>Basketbrawl (USA, Europe)</name>
+		<desc>Vinnie and Slash are bleeding from knife wounds and the ref is out cold! No wonder the gang members nicknamed this game "Basketbrawl." To them it's not a game--it's a street fight!</desc>
+		<image>./images/Basketbrawl (USA, Europe).png</image>
+		<thumbnail>./images/Basketbrawl (USA, Europe).png</thumbnail>
+		<rating>0.55</rating>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Batman Returns (USA, Europe).lnx</path>
+		<name>Batman Returns (USA, Europe)</name>
+		<desc>Gotham City is in desperate trouble again. Catwoman and The Penguin have joined forces to terrorize the entire metropolis! Only you can help Batman foil their deadly scheme and save the city from their fiendish clutches.</desc>
+		<image>./images/Batman Returns (USA, Europe).png</image>
+		<thumbnail>./images/Batman Returns (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Battle Wheels (USA, Europe).lnx</path>
+		<name>Battle Wheels (USA, Europe)</name>
+		<desc>Battlewheels is an Action game, developed by Beyond Games and published by Atari, which was released in 1992.</desc>
+		<image>./images/Battle Wheels (USA, Europe).png</image>
+		<thumbnail>./images/Battle Wheels (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Battlezone 2000 (USA, Europe).lnx</path>
+		<name>Battlezone 2000 (USA, Europe)</name>
+		<desc>2005 A.D. A deadly virus has infected the Supertank's ultrasophisticated computer systems, turning these mighty weapons of destruction against their creators. Humankind is on the brink of extinction. Free the battle zones from this robotic plague!</desc>
+		<image>./images/Battlezone 2000 (USA, Europe).png</image>
+		<thumbnail>./images/Battlezone 2000 (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Bill &amp; Ted's Excellent Adventure (USA, Europe).lnx</path>
+		<name>Bill &amp; Ted's Excellent Adventure (USA, Europe)</name>
+		<desc>Bill and Ted are about to embark on their most excellent adventure through time and space. Those two beautiful babes from Medieval England, Joanna and Elizabeth, have been kidnapped by the most heinous Grim Reaper. Bill and Ted must use the circuits of time to find the princesses. Will they be most triumphant? Only you can help!</desc>
+		<image>./images/Bill &amp; Ted's Excellent Adventure (USA, Europe).png</image>
+		<thumbnail>./images/Bill &amp; Ted's Excellent Adventure (USA, Europe).png</thumbnail>
+		<rating>0.55</rating>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<playcount>2</playcount>
+		<lastplayed>20151017T123046</lastplayed>
+	</game>
+	<game>
+		<path>./Block Out (USA, Europe).lnx</path>
+		<name>Block Out (USA, Europe)</name>
+		<desc>Block Out is a Tetris variant with an added twist: it's in 3D. The player can rotate the blocks in 3D in order to fit them into the pit they are being guided into. Advanced users can play this game with odd three-dimensional pieces, or change the size of the pit, for depth of between 6 and 18 piles, and width and length of between 3 and 7.</desc>
+		<image>./images/Block Out (USA, Europe).png</image>
+		<thumbnail>./images/Block Out (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Blue Lightning (USA, Europe).lnx</path>
+		<name>Blue Lightning (USA, Europe)</name>
+		<desc>Flight Command chose you to fly the top secret Blue Lightning combat jet on its first flight. You finished last at flight school so they have nothing to lose.
+Trails of smoke warn of oncoming enemy missiles. A few quick barrel rolls and you avoid the missiles. Now here come the jets! With guns blazing you fly into the thick of the enemy formation.
+If you can somehow complete nine crucial missions which combine the explosive action of combat with the quiet stealth of night flight, you'll be a hero. If you fail, no one will even remember your name.</desc>
+		<image>./images/Blue Lightning (USA, Europe).png</image>
+		<thumbnail>./images/Blue Lightning (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Bubble Trouble (USA, Europe).lnx</path>
+		<name>Bubble Trouble (USA, Europe)</name>
+		<desc>You are Travis, a scientist doing experiments with dense matter for the creation of artificial black holes for interstellar travel. While testing a piece of equipment, you are transported into a bubble world. Fortunately, a friendly denizen decides to help you. You must locate the correct type of radioactive particles to move from world to world and finally home, before the hostile denizens of these worlds burst your bubble.
+
+You move your bubble by pushing in the desired direction. Be advised that you do not stop easily and can bounce out of control if you are not careful. Pushing the A button fires a bubble shot that will ricochet around. You can use this action to bounce shots at enemies that are around a corner. Pressing B drops a bubble bomb straight down. Pressing Option 1 switches options on the screen, including the suicidal "Burst!!!", that are then activated by pressing Option 2. The one you will use most is "Use scanner". This will bring up the scanner that looks like a radar screen and will show you the approximate location of your needed particles. Once you locate and gather all the particles needed in the level, you move on to the next level. After you finish five levels, you win the game.</desc>
+		<image>./images/Bubble Trouble (USA, Europe).png</image>
+		<thumbnail>./images/Bubble Trouble (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<playcount>1</playcount>
+		<lastplayed>20150916T131159</lastplayed>
+	</game>
+	<game>
+		<path>./California Games (USA, Europe).lnx</path>
+		<name>California Games (USA, Europe)</name>
+		<desc>Hey Dude, get ready for the ultimate in rad video! Sega's California Games takes you to the sunny beaches and deserts of the California coast for some gnarly sports competition. Kick it down on a skateboard. Ride the waves to surfing heaven. Cruise the concrete on skates or the rough track on a BMX. Test your toes with a footbag or your long concentration with a flying disk. In a word: awesome. But there's more. You can play with up to 8 of your friends. Practice events. Compete in one, some or all to become the total California Champion! And you can play for some of the hottest teams around around representing the heaviest names on the circuit. So what are you waiting for? Grab your board and get ready to achieve a new state of Atari cool.</desc>
+		<image>./images/California Games (USA, Europe).png</image>
+		<thumbnail>./images/California Games (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Checkered Flag (USA, Europe).lnx</path>
+		<name>Checkered Flag (USA, Europe)</name>
+		<desc>Checkered Flag is a Driving game, developed and published by Atari, which was released in 1991.</desc>
+		<image>./images/Checkered Flag (USA, Europe).png</image>
+		<thumbnail>./images/Checkered Flag (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<playcount>1</playcount>
+		<lastplayed>20160424T225710</lastplayed>
+	</game>
+	<game>
+		<path>./Chip's Challenge (USA, Europe).lnx</path>
+		<name>Chip's Challenge (USA, Europe)</name>
+		<desc>Before Chip can join the Bit Busters computer club and hang out with the girl of his dreams, Melinda the Mental Marvel, he must solve all 144 challenging puzzles.
+Your bird's-eye view can help Chip rush through the puzzles and mazes before he's deleted by monsters, traps, and the passage of time. Show Chip how to use blocks of soil to overcome water traps and cherry bombs, find keys, and pick up the computer chips which Chip needs to solve some puzzles.
+Can you help Chip win the cold heart of his one true love and become an official Bit Buster? If you can't, no one can!</desc>
+		<image>./images/Chip's Challenge (USA, Europe).png</image>
+		<thumbnail>./images/Chip's Challenge (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Crystal Mines II (USA, Europe).lnx</path>
+		<name>Crystal Mines II (USA, Europe)</name>
+		<desc>Great treasure still lies deep in the abandoned Crystal Mines. But over the years, underground demons have made them deadly. Guide your robot through the mines, destroying demons and gathering great wealth. Or fail, and become history.</desc>
+		<image>./images/Crystal Mines II (USA, Europe).png</image>
+		<thumbnail>./images/Crystal Mines II (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Desert Strike - Return to the Gulf (USA, Europe).lnx</path>
+		<name>Desert Strike - Return to the Gulf (USA, Europe)</name>
+		<desc>You must annihilate a ruthless tyrant's military arsenal. Tear into his air force and smoke his private yacht as you battle over land, air and sea in over 20 fiery missions using all the force you can to establish superiority. The President has chosen you to fly a series of dangerous preemptive campaigns in the desert to vanguish this tyrant.</desc>
+		<image>./images/Desert Strike - Return to the Gulf (USA, Europe).png</image>
+		<thumbnail>./images/Desert Strike - Return to the Gulf (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Dinolympics (USA, Europe).lnx</path>
+		<name>Dinolympics (USA, Europe)</name>
+		<desc>Come back to the dawn of history in this combination of puzzling problems, awesome adventures, and mind-bending mazes. The survival of your race is at stake!</desc>
+		<image>./images/Dinolympics (USA, Europe).png</image>
+		<thumbnail>./images/Dinolympics (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Dirty Larry - Renegade Cop (USA, Europe).lnx</path>
+		<name>Dirty Larry - Renegade Cop (USA, Europe)</name>
+		<desc>He's the baddest of the good guys. He's Dirty Larry - Renegade Cop. Mr. Big's Gang is determined to end his career for good--if his own Captain doesn't do it first! So take to the streets in a hurry. It's time for a little house cleaning!</desc>
+		<image>./images/Dirty Larry - Renegade Cop (USA, Europe).png</image>
+		<thumbnail>./images/Dirty Larry - Renegade Cop (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Double Dragon (USA, Europe).lnx</path>
+		<name>Double Dragon (USA, Europe)</name>
+		<desc>Twin brothers use expert knowledge of martial arts, various weapons and street smarts to rescue their friend Marian from the Black Warriors, the savage street gang of the mysterious Shadow Boss! Non stop action in one of the world's classic games now in your hands.</desc>
+		<image>./images/Double Dragon (USA, Europe).png</image>
+		<thumbnail>./images/Double Dragon (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<playcount>1</playcount>
+		<lastplayed>20160424T225814</lastplayed>
+	</game>
+	<game>
+		<path>./Dracula the Undead (USA, Europe).lnx</path>
+		<name>Dracula the Undead (USA, Europe)</name>
+		<desc>You must escape Dracula's sinister castle, find the dark one and drive a stake through his heart. To escape, you must explore the castle and learn its secrets. If you fail, you will join Dracula's brides for dinner, and guess who's the main course!</desc>
+		<image>./images/Dracula the Undead (USA, Europe).png</image>
+		<thumbnail>./images/Dracula the Undead (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<playcount>1</playcount>
+		<lastplayed>20151017T121841</lastplayed>
+	</game>
+	<game>
+		<path>./Electrocop (USA, Europe).lnx</path>
+		<name>Electrocop (USA, Europe)</name>
+		<desc>The Criminal Brain has kidnapped the President's daughter and threatens to kill her if he does not get control of the world. Only you, Electrocop, can invade the Steel Complex where evil robots and dangerous traps protect the Criminal Brain.
+The odds are against you. Your only hope is to find the weapons and computer terminals hidden in the mazes of the Criminal Brain's fortress.
+Can you save the President's daughter and serve justice to the world's most wicked criminal? It's your sworn duty as an officer of the law.</desc>
+		<image>./images/Electrocop (USA, Europe).png</image>
+		<thumbnail>./images/Electrocop (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./European Soccer Challenge (USA, Europe).lnx</path>
+		<name>European Soccer Challenge (USA, Europe)</name>
+		<desc>European Soccer Challenge gives you all the excitement and tension of the European Challenge Cup in this action packed version of the world's most popular game featuring over 170 teams from 32 countries. Has your team got what it takes?</desc>
+		<image>./images/European Soccer Challenge (USA, Europe).png</image>
+		<thumbnail>./images/European Soccer Challenge (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Fat Bobby (USA, Europe).lnx</path>
+		<name>Fat Bobby (USA, Europe)</name>
+		<desc>Fat Bobby is an Action game, developed and published by Telegames, Inc., which was released in 1997.</desc>
+		<image>./images/Fat Bobby (USA, Europe).png</image>
+		<thumbnail>./images/Fat Bobby (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Fidelity Ultimate Chess Challenge, The (USA, Europe).lnx</path>
+		<name>Fidelity Ultimate Chess Challenge, The (USA, Europe)</name>
+		<desc>On your own against the Fidelity Ultimate Chess Challenge - the world's most powerful hand-held chess game - or against a friend, the stunning 3D graphics and advanced technology of this latest game from Telegames has to be played to be believed.
+The Fidelity Ultimate Chess Challenge uses the most powerful chess playing technology from the laboratories of Fidelity - the premier manufacturers of dedicated chess computers are developers of the world's only USCF certified Master rated (2325) chess program.
+Switch from 3D to overhead view for the final attack - or use one of the many options available to review the game to date.
+Full on-screen statistics giving score, times, moves etc. and many other features on this the world's fastest color hand-held chess game.</desc>
+		<image>./images/Fidelity Ultimate Chess Challenge, The (USA, Europe).png</image>
+		<thumbnail>./images/Fidelity Ultimate Chess Challenge, The (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Gates of Zendocon, The (USA, Europe).lnx</path>
+		<name>Gates of Zendocon, The (USA, Europe)</name>
+		<desc>The hideous spider Zendocon captured you and sent you deep into its web of 51 deadly universes. You must survive each universe and its hostile alien inhabitants if you hope to return home.
+You will find allies along the way. If you can free Zendocon's alien slaves, they will help you search for the Gates that will transport you from one universe to the next.
+Can you survive Zendocon's challenge? You must survive! Your rewards for success is the chance for sweet revenge--a duel to the death with the evil spider itself!</desc>
+		<image>./images/Gates of Zendocon, The (USA, Europe).png</image>
+		<thumbnail>./images/Gates of Zendocon, The (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Gauntlet - The Third Encounter (USA, Europe).lnx</path>
+		<name>Gauntlet - The Third Encounter (USA, Europe)</name>
+		<desc>Generations ago an enchanted Star Gem crashed to Earth at the base of an ancient castle. Loathsome creatures crept from the castle and carried the Gem into the depths of the fortress.
+All attempts to retrieve the Star Gem failed. The adventurers were destroyed.
+The creatures in the castle gain magical strength from the Star Gem. Unless the Gem is taken from them, the evil ones will soon have the strength to venture forth and destroy mankind! You and your friends must take up the quest to rescure the Star Gem...and your world!</desc>
+		<image>./images/Gauntlet - The Third Encounter (USA, Europe).png</image>
+		<thumbnail>./images/Gauntlet - The Third Encounter (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Gordo 106 - The Mutated Lab Monkey (USA, Europe).lnx</path>
+		<name>Gordo 106 - The Mutated Lab Monkey (USA, Europe)</name>
+		<desc>Gordo, the laboratory monkey, is free of cage 106, but his adventure of escape and revenge is just beginning. Even with super-monkey intelligence, he needs your help to explore the lab's six levels, freeing his captive friends and destroying evil scientists in his fight for freedom.</desc>
+		<image>./images/Gordo 106 - The Mutated Lab Monkey (USA, Europe).png</image>
+		<thumbnail>./images/Gordo 106 - The Mutated Lab Monkey (USA, Europe).png</thumbnail>
+		<rating>0.55</rating>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Hard Drivin' (USA, Europe).lnx</path>
+		<name>Hard Drivin' (USA, Europe)</name>
+		<desc>Make sure you're strapped in tight--because Hard Drivin' means just that! Can you beat the clock on the hottest track going? Can you handle jumps, loops, and other stunts and still survive? Can you keep your speed at max without crashing? Yeah? Ok--but--can you take the title away from the Phantom Photon, the Hard Drivin' world's champion?</desc>
+		<image>./images/Hard Drivin' (USA, Europe).png</image>
+		<thumbnail>./images/Hard Drivin' (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Hockey (USA, Europe).lnx</path>
+		<name>Hockey (USA, Europe)</name>
+		<desc>Hockey is a Sports game, published by Atari, which was released in 1992.</desc>
+		<image>./images/Hockey (USA, Europe).png</image>
+		<thumbnail>./images/Hockey (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Hydra (USA, Europe).lnx</path>
+		<name>Hydra (USA, Europe)</name>
+		<desc>Someone has to be a hero, and it might as well be you. In your super-advanced speedboat, you must deliver top-secret military equipment to various parts of the world. Fame and riches await you -- but so do pitfalls and danger!</desc>
+		<image>./images/Hydra (USA, Europe).png</image>
+		<thumbnail>./images/Hydra (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Ishido - The Way of Stones (USA, Europe).lnx</path>
+		<name>Ishido - The Way of Stones (USA, Europe)</name>
+		<desc>Introducing Ishido, the ancient and intricate Game of the Stones. You must place stones on the game board, matching colors and patterns according to centuries-old rules. It requires great skill and concentration--but if you can unlock the secret of the Oracle, its wisdom will help you!</desc>
+		<image>./images/Ishido - The Way of Stones (USA, Europe).png</image>
+		<thumbnail>./images/Ishido - The Way of Stones (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Jimmy Connors' Tennis (USA, Europe).lnx</path>
+		<name>Jimmy Connors' Tennis (USA, Europe)</name>
+		<desc>Jimmy Connors' Tennis is a Sports game, published by Atari, which was released in 1993.</desc>
+		<image>./images/Jimmy Connors' Tennis (USA, Europe).png</image>
+		<thumbnail>./images/Jimmy Connors' Tennis (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Joust (USA, Europe).lnx</path>
+		<name>Joust (USA, Europe)</name>
+		<desc>You don a suit of armor, choose your weapon-a worn but sturdy lance. You climb onto a cyborg ostrich, grab the reins of your faithful mount and fly off to wage battle against the enemy.
+
+In the distance you see an enemy vulture appear on a creator pad. You ready your lance and prepare to do battle. As you draw close to the enemy Bounder, you rise above him and prepare to defeat him with a quick swooping attack. You sweep down from the sky and dismount the enemy rider with a powerful blow. You have defeated the enemy...this time.</desc>
+		<image>./images/Joust (USA, Europe).png</image>
+		<thumbnail>./images/Joust (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Klax (USA, Europe).lnx</path>
+		<name>Klax (USA, Europe)</name>
+		<desc>Get set for Arcade Action in living color. In Klax, capture the colored tiles and flip them into stack. Create a Klax by matching 3 or more colored tiles. The pace quickens ... you've got to move fast but beware, once you start, you'll never want to stop.</desc>
+		<image>./images/Klax (USA, Europe).png</image>
+		<thumbnail>./images/Klax (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Krazy Ace - Miniature Golf (USA, Europe).lnx</path>
+		<name>Krazy Ace - Miniature Golf (USA, Europe)</name>
+		<desc>Krazy Ace Miniature Golf is a Sports game, developed and published by Telegames, Inc., which was released in 1993.</desc>
+		<image>./images/Krazy Ace - Miniature Golf (USA, Europe).png</image>
+		<thumbnail>./images/Krazy Ace - Miniature Golf (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Kung Food (USA, Europe).lnx</path>
+		<name>Kung Food (USA, Europe)</name>
+		<desc>The ultimate food fight! Mutant munchies from your freezer invade your kitchen, your life, and your world. Speed and your martial arts skills are required to overcome the vicious veggies!</desc>
+		<image>./images/Kung Food (USA, Europe).png</image>
+		<thumbnail>./images/Kung Food (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Lemmings (USA, Europe).lnx</path>
+		<name>Lemmings (USA, Europe)</name>
+		<desc>They climb, they dig, they explore...but they can't fly! As the only member of the Save The Lemmings Foundation, it's your job to guide these munchkins to safety before they realize they have no landing gear.</desc>
+		<image>./images/Lemmings (USA, Europe).png</image>
+		<thumbnail>./images/Lemmings (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Lexis (USA, Europe).lnx</path>
+		<name>Lexis (USA, Europe)</name>
+		<desc>Lexis is a Miscellaneous game, published by Songbird Productions, which was released in 1999.</desc>
+		<image>./images/Lexis (USA, Europe).png</image>
+		<thumbnail>./images/Lexis (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Lynx Casino (USA, Europe).lnx</path>
+		<name>Lynx Casino (USA, Europe)</name>
+		<desc>Ever wish you could take a thousand dollars and head for Vegas, Monaco, or a Caribbean cruise? Here's the next best thing! Five exciting games in one give you the real feel of a high-roller's favorite casino!</desc>
+		<image>./images/Lynx Casino (USA, Europe).png</image>
+		<thumbnail>./images/Lynx Casino (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Malibu Bikini Volleyball (USA, Europe).lnx</path>
+		<name>Malibu Bikini Volleyball (USA, Europe)</name>
+		<desc>Welcome to Malibu: Volleyball capital of the world. This is where the best come to play--and show off their tans. If you want in, sign up. But keep your eyes on the ball...there'll be plenty of time for bikini-watching after the match!</desc>
+		<image>./images/Malibu Bikini Volleyball (USA, Europe).png</image>
+		<thumbnail>./images/Malibu Bikini Volleyball (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Ms. Pac-Man (USA, Europe).lnx</path>
+		<name>Ms. Pac-Man (USA, Europe)</name>
+		<desc>With classic style and tradition, Ms. Pac-Man munches her way through maze after maze. She will consume all the dots in a level before she can progress to the next level. That can be pretty tough though, because at the same time she must dodge those devious gobbling ghosts!</desc>
+		<image>./images/Ms. Pac-Man (USA, Europe).png</image>
+		<thumbnail>./images/Ms. Pac-Man (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./NFL Football (USA, Europe).lnx</path>
+		<name>NFL Football (USA, Europe)</name>
+		<desc>NFL Football is a Sports game, developed by Blue Sky Software and published by Atari, which was released in 1992.</desc>
+		<image>./images/NFL Football (USA, Europe).png</image>
+		<thumbnail>./images/NFL Football (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Ninja Gaiden (USA, Europe).lnx</path>
+		<name>Ninja Gaiden (USA, Europe)</name>
+		<desc>Now the adventure and thrill of this fast-paced, action-packed coin-op hit is placed in your hands! Kick, punch, and master the special Ninjutsu techniques as you battle your way through four of the nastiest neighborhoods known to man.</desc>
+		<image>./images/Ninja Gaiden (USA, Europe).png</image>
+		<thumbnail>./images/Ninja Gaiden (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<playcount>3</playcount>
+		<lastplayed>20160424T233105</lastplayed>
+	</game>
+	<game>
+		<path>./Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe).lnx</path>
+		<name>Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe)</name>
+		<desc>Immerse yourself in action-acked Ninja adventure as you help Ryu through his greatest challenge. Battle the hideous ancient forces of darkness to save mankind, with the epic adventure unfolding as you complete each level.</desc>
+		<image>./images/Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe).png</image>
+		<thumbnail>./images/Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Pac-Land (USA, Europe).lnx</path>
+		<name>Pac-Land (USA, Europe)</name>
+		<desc>Pac-Man, the world's most famous game character is back! Help Pac-Man guide the Fairy back to her home in Fairy Land, but watch out - those mischievous ghosts are out to stop you once again! Use the Magic Shoes to help get Pac-Man back to his own home in 16 different rounds with multiple trips in each round, eating Power Pellets and bonus Fruit along the way. Fast, frantic, addictive Pac-Man action from beginning to end!</desc>
+		<image>./images/Pac-Land (USA, Europe).png</image>
+		<thumbnail>./images/Pac-Land (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<playcount>1</playcount>
+		<lastplayed>20150916T122718</lastplayed>
+	</game>
+	<game>
+		<path>./Paperboy (USA, Europe).lnx</path>
+		<name>Paperboy (USA, Europe)</name>
+		<desc>The object of Paperboy is to deliver papers to your customers while inflicting as much damage as possible to the houses of your non-customers. To make things more difficult, numerous obstacles get in your way including construction workers, rogue tires, skateboarders, dogs and cats, cars, and even the occasional tornado.</desc>
+		<image>./images/Paperboy (USA, Europe).png</image>
+		<thumbnail>./images/Paperboy (USA, Europe).png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<playcount>3</playcount>
+		<lastplayed>20150916T123517</lastplayed>
+	</game>
+	<game>
+		<path>./Pinball Jam (USA, Europe).lnx</path>
+		<name>Pinball Jam (USA, Europe)</name>
+		<desc>Pinball Jam is a Lynx conversion of two pinball tables: "Elvira and the Party Monsters" (Midway, 1989), and "Police Force" (Williams, 1989). Both feature authentic table layouts, targets, and bonuses; the conversion of Elvira and the Party Monsters also features digitized sound effects, including the voice of Cassandra Peterson (Elvira).
+
+Each table scrolls up and down during gameplay (as opposed to just "snapping" to a new area as the ball reaches it).</desc>
+		<image>./images/Pinball Jam (USA, Europe).png</image>
+		<thumbnail>./images/Pinball Jam (USA, Europe).png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Pit Fighter - The Ultimate Competition (USA, Europe).lnx</path>
+		<name>Pit Fighter - The Ultimate Competition (USA, Europe)</name>
+		<desc>Pit-Fighter is a 3rd-person fight game that features digitized graphics of real fighters and zooming effects. Players select one of three fighters (Buzz, Ty or Kato) to take on anyone who dares. At the conclusion of a match, players are individually awarded a Knockout Bonus, Brutality Bonus, and a Fight Purse. Every third match is a Grudge Match where players test the skills of each other. The last man standing is the winner of this three-knockdown match. Players fight their way to the Elimination Match to decide who wins the opportunity to dethrone the champion, the Masked Warrior.</desc>
+		<image>./images/Pit Fighter - The Ultimate Competition (USA, Europe).png</image>
+		<thumbnail>./images/Pit Fighter - The Ultimate Competition (USA, Europe).png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Power Factor (USA, Europe).lnx</path>
+		<name>Power Factor (USA, Europe)</name>
+		<desc>Transdimensional intruders from the Ceeg dimension have invaded our space. Only Redd Ace, with his TRANSMAT Multi-Ordinance Weapon, can enter our dimension's reactor and find the six bomb components needed to destroy the Ceegarians.</desc>
+		<image>./images/Power Factor (USA, Europe).png</image>
+		<thumbnail>./images/Power Factor (USA, Europe).png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher></publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./QIX (USA, Europe).lnx</path>
+		<name>QIX (USA, Europe)</name>
+		<image>/recalbox/share/roms/lynx/images/QIX (USA, Europe).png</image>
+		<thumbnail>/recalbox/share/roms/lynx/images/QIX (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Raiden (USA) (v3.0).lnx</path>
+		<name>Raiden (USA, Europe)</name>
+		<desc>Raiden is an Action game, developed by Blue Sky Software and published by Telegames, Inc.,which was released in 1997.</desc>
+		<image>./images/Raiden (USA) (v3.0).png</image>
+		<thumbnail>./images/Raiden (USA) (v3.0).png</thumbnail>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Blue Sky Software</developer>
+		<publisher></publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Rampage (USA, Europe).lnx</path>
+		<name>Rampage (USA, Europe)</name>
+		<desc>Mass destruction has never been so much fun! And arcade superstars Ralph the Wolf, George the Ape, and Lizzie the Lizard make a riotous wrecking crew. So go wild! Crunch the concrete. Trash a trolley. Snack on a soldier. Have an office building for lunch. Go on a RAMPAGE!</desc>
+		<image>./images/Rampage (USA, Europe).png</image>
+		<thumbnail>./images/Rampage (USA, Europe).png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher></publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Rampart (USA, Europe).lnx</path>
+		<name>Rampart (USA, Europe)</name>
+		<desc>A medieval masterpiece of power, strategy and ingenuity! The objective is brutally simple: engage your enemy in an all-out exchange of cannonfire, then assess the damage and rebuild your castle. But the reality of RAMPART is far more complex. The key to victory lies in how quickly you can pick up the pieces and redesign, refortify, and extend your walls before the next battle begins. There's only one way out. Defend... or perish.</desc>
+		<image>./images/Rampart (USA, Europe).png</image>
+		<thumbnail>./images/Rampart (USA, Europe).png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher></publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./RoadBlasters (USA, Europe).lnx</path>
+		<name>RoadBlasters (USA, Europe)</name>
+		<desc>In the distant future the ultimate race will occur. Half race and half battle.Grab the controls and accelerate to reach the rally points. Dodge mines and toxic spills, blast Rat Jeeps and Darting Cycles. Acquire weapons like Cruise Missiles and U.Z. Cannons. Explore 50 levels of mind blowing authentic arcade action!</desc>
+		<image>./images/RoadBlasters (USA, Europe).png</image>
+		<thumbnail>./images/RoadBlasters (USA, Europe).png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher></publisher>
+		<genre>Driving</genre>
+	</game>
+	<game>
+		<path>./Robo-Squash (USA, Europe).lnx</path>
+		<name>Robo-Squash (USA, Europe)</name>
+		<desc>Robo-Squash is an Action game, published by Atari, which was released in 1990.</desc>
+		<image>./images/Robo-Squash (USA, Europe).png</image>
+		<thumbnail>./images/Robo-Squash (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Robotron 2084 (USA, Europe).lnx</path>
+		<name>Robotron 2084 (USA, Europe)</name>
+		<desc>In 2084, man creates a species of super-advanced cyborgs known as Robotrons. Recognizing the imperfect nature of their creators, the Robotrons conclude that the inefficient human race must be exterminated. Only you and a single family of clones remain. If mankind is to survive, you must destroy the Grunts, Brains, Enforcers, and Tanks - but avoid the indestructible Hulks at all cost. Can you withstand wave after wave of android invasion... before it's too late?</desc>
+		<image>./images/Robotron 2084 (USA, Europe).png</image>
+		<thumbnail>./images/Robotron 2084 (USA, Europe).png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Williams</developer>
+		<publisher></publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Rygar - Legendary Warrior (USA, Europe).lnx</path>
+		<name>Rygar: Legendary Warrior (USA, Europe)</name>
+		<image>./images/Rygar - Legendary Warrior (USA, Europe).png</image>
+		<thumbnail>./images/Rygar - Legendary Warrior (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./S.T.U.N. Runner (USA, Europe).lnx</path>
+		<name>S.T.U.N. Runner (USA, Europe)</name>
+		<desc>Pit your skills against earth invaders in the 25th century! You'll need all your driving skills in the narrow, twisting underground tunnels of the subterranean network. Destroy your enemies and advance your speed to incredible levels. Beat the clock and become the best there is--S.T.U.N. Runner!</desc>
+		<image>./images/S.T.U.N. Runner (USA, Europe).png</image>
+		<thumbnail>./images/S.T.U.N. Runner (USA, Europe).png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher></publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Scrapyard Dog (USA, Europe).lnx</path>
+		<name>Scrapyard Dog (USA, Europe)</name>
+		<desc>Our friend Louis loved his dog. But why would some thugs kidnap this poor puppy? The thugs want the deed to the scrapyard, that's why. Will Louie stand for this? It's up to you and Louie to survive over 15 levels of danger and find the ultimate bad guy, Mr. Big.</desc>
+		<image>./images/Scrapyard Dog (USA, Europe).png</image>
+		<thumbnail>./images/Scrapyard Dog (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Shadow of the Beast (USA, Europe).lnx</path>
+		<name>Shadow of the Beast (USA, Europe)</name>
+		<desc>The beast is among us! This is it - a whole new dimension in computer games! Loaded with awesome features: 50 frames per second arcade-quality scroll, 350 screens, 132 unique monsters, 13 levels of parallax scrolling, 900K of emotive music, and 2MB of graphics compressed in two disks! A truly massive game!</desc>
+		<image>./images/Shadow of the Beast (USA, Europe).png</image>
+		<thumbnail>./images/Shadow of the Beast (USA, Europe).png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Digital Developments</developer>
+		<publisher></publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Shanghai (USA, Europe).lnx</path>
+		<name>Shanghai (USA, Europe)</name>
+		<desc>Obsession awaits. The game of ivory tiles, played by seafarers, scoundrels, and emperors of the far east for centuries, is brought to you in modern form for the Lynx -- as Shanghai.Ancient tiles are stacked randomly in mystical shapes awaiting your challenge. 144 tiles beckon your skill and strategy in matching pairs, eliminating them from the board, while revealing new tiles underneath.Accept the challenge alone or with a friend in a cooperative or competitive two-player game against the Dragon, the Hawk, the Bear -- any of seven different puzzle boards.</desc>
+		<image>./images/Shanghai (USA, Europe).png</image>
+		<thumbnail>./images/Shanghai (USA, Europe).png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher></publisher>
+		<genre>Miscellaneous</genre>
+	</game>
+	<game>
+		<path>./Steel Talons (USA, Europe).lnx</path>
+		<name>Steel Talons (USA, Europe)</name>
+		<desc>Sensors detect incoming missiles! Your AT1196 Steel Talons combat helicopter has the on-board computer and the firepower to meet the challenge. But can YOU?</desc>
+		<image>./images/Steel Talons (USA, Europe).png</image>
+		<thumbnail>./images/Steel Talons (USA, Europe).png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher></publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Super Asteroids, Missile Command (USA, Europe).lnx</path>
+		<name>Super Asteroids, Missile Command (USA, Europe)</name>
+		<desc>So, you think you're an ace, huh? Here's your chance to prove yourself. Fight your way out of an asteroid belt filled with hostile aliens in Super Asteroids. Too easy? Take a shot at saving the earth in Super Missile Command. These enhanced versions of your favorite coin-ops have never looked so good.</desc>
+		<image>./images/Super Asteroids, Missile Command (USA, Europe).png</image>
+		<thumbnail>./images/Super Asteroids, Missile Command (USA, Europe).png</thumbnail>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher></publisher>
+		<genre>Miscellaneous</genre>
+	</game>
+	<game>
+		<path>./Super Off-Road (USA, Europe).lnx</path>
+		<name>Super Off-Road (USA, Europe)</name>
+		<desc>All the thrills of real off road racing with all-out dirt grinding, high-gear competition. Watch out for mud holes, jumps, and other obstacles as you negotiate many stadium off-road tracks. Based on the number 1 arcade hit!</desc>
+		<image>./images/Super Off-Road (USA, Europe).png</image>
+		<thumbnail>./images/Super Off-Road (USA, Europe).png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Telegames, Inc.</developer>
+		<publisher></publisher>
+		<genre>Driving</genre>
+	</game>
+	<game>
+		<path>./Super Skweek (USA, Europe).lnx</path>
+		<name>Super Skweek (USA, Europe)</name>
+		<desc>The player plays the Super Skweek, an orange-furred creature of unknown origin. Under the command of the King, the player has to move over blue tiles in order to repaint them pink, fighting off the monster invasion in doing so. There are five islands, each consisting of 50 levels.
+
+Some levels contain various monsters roaming around, and certain special tiles such as slippery tiles, explosive tiles, floating tiles and tiles which move the player in a certain direction. There are also coins to collect in order to buy prizes at the shop such as bombs or other improved powers.</desc>
+		<image>./images/Super Skweek (USA, Europe).png</image>
+		<thumbnail>./images/Super Skweek (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Switchblade II (USA, Europe).lnx</path>
+		<name>Switchblade II (USA, Europe)</name>
+		<desc>After 200 years, the evil Ninja Lord Havok has returned! Only Hiro has the power to free the empire. But Havok is stronger than before and Hiro has not had to fight for two centuries. Is he up to the task? Are you?</desc>
+		<image>./images/Switchblade II (USA, Europe).png</image>
+		<thumbnail>./images/Switchblade II (USA, Europe).png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Gremlin Interactive</developer>
+		<publisher></publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Todd's Adventures in Slime World (USA, Europe).lnx</path>
+		<name>Todd's Adventures in Slime World (USA, Europe)</name>
+		<desc>You are Todd, the explorer of new worlds. It's your adventure to travel deep into Slime World, the gooiest, drippiest place around. There are scary blobs to shoot and lots of objects and weapons to find. "Link up" with up to seven of your fellow slimers for an awesome multiplayer adventure.</desc>
+		<image>./images/Todd's Adventures in Slime World (USA, Europe).png</image>
+		<thumbnail>./images/Todd's Adventures in Slime World (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Toki (USA, Europe).lnx</path>
+		<name>Toki (USA, Europe)</name>
+		<desc>Only the mighty warrior Toki can save Princess Miho from a fate worse than death. But the wicked Vookimedlo turned Toki into an ape! Help Toki defeat the evil wizard king, free the Princess, and become a man again.</desc>
+		<image>./images/Toki (USA, Europe).png</image>
+		<thumbnail>./images/Toki (USA, Europe).png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher></publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Tournament Cyberball (USA, Europe).lnx</path>
+		<name>Tournament Cyberball (USA, Europe)</name>
+		<desc>Journey into the future of football with this cult, arcade classic. Enjoy robotic action against the computer or ComLynx&amp;trade; up to four players and play head-to-head with your friends. Earn money for completed plays which can be used to power-up your team, replace broken players, and upgrade to bigger and more advanced players. Awesome football action!</desc>
+		<image>./images/Tournament Cyberball (USA, Europe).png</image>
+		<thumbnail>./images/Tournament Cyberball (USA, Europe).png</thumbnail>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Blue Sky Software</developer>
+		<publisher></publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Turbo Sub (USA, Europe).lnx</path>
+		<name>Turbo Sub (USA, Europe)</name>
+		<desc>Earth has been invaded in the 28th century! Only you and your Turbo Sub stand in the enemy's way! Cruising underwater, you will find great treasure and great danger, too. Use your wits and your firepower to overcome the Stealth Raiders and restore Earth to peace. Comlynx&amp;trade; with another player and compete for top points.</desc>
+		<image>./images/Turbo Sub (USA, Europe).png</image>
+		<thumbnail>./images/Turbo Sub (USA, Europe).png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher></publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Viking Child (USA, Europe).lnx</path>
+		<name>Viking Child (USA, Europe)</name>
+		<desc>The centuries-old prophesy has come true. A young Viking child named Brian has been born, destined to join the heroes of the world. He must enter the halls of Valhalla and do battle with the evil god Loki, who has captured Brian's family from their village in the far North. But first, he must journey forth alone and conquer Loki's powerful apprentices. The legend begins...</desc>
+		<image>./images/Viking Child (USA, Europe).png</image>
+		<thumbnail>./images/Viking Child (USA, Europe).png</thumbnail>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Imagitec Design, Inc.</developer>
+		<publisher></publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Warbirds (USA, Europe).lnx</path>
+		<name>Warbirds (USA, Europe)</name>
+		<desc>It's the First World War and the conquest of the sky is your mission. Battle your way to that target with WarBirds, the totally three-dimensional, fly by the seat of your pants, dog fight game.
+Pick from any of six missions from Milk Run to The Swarm to dog fight one-on-one or fill the sky with war planes. Fight against a computer-controlled squadron or link with up to four Lynx friends to determine who is the Greatest World War I Flying Ace.</desc>
+		<image>./images/Warbirds (USA, Europe).png</image>
+		<thumbnail>./images/Warbirds (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./World Class Soccer (USA, Europe).lnx</path>
+		<name>World Class Soccer (USA, Europe)</name>
+		<desc>All the thrills and excitement of the world's most popular game are right in your hands! Play against a friend or against the computer.</desc>
+		<image>./images/World Class Soccer (USA, Europe).png</image>
+		<thumbnail>./images/World Class Soccer (USA, Europe).png</thumbnail>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher></publisher>
+		<genre>Sports</genre>
+	</game>
+	<game>
+		<path>./Xenophobe (USA, Europe).lnx</path>
+		<name>Xenophobe (USA, Europe)</name>
+		<desc>Can this motley crew of Xeno Exterminators wipe out the hoards of alien creatures aboard the infested space stations? Hurry up and blast away or your mission may end in a blizzard of ooze!
+You and up to three of your friends can "Lynx up" for a multi player frenzy. Choose your character, find the weapons and Zap the Xenos!</desc>
+		<image>./images/Xenophobe (USA, Europe).png</image>
+		<thumbnail>./images/Xenophobe (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<playcount>1</playcount>
+		<lastplayed>20151017T122813</lastplayed>
+	</game>
+	<game>
+		<path>./Xybots (USA, Europe).lnx</path>
+		<name>Xybots (USA, Europe)</name>
+		<desc>The fate of humanity is in your hands! You must explore the corners and passageways of Earth's last outpost in space and defeat the invading Xybots. If you fail, human life as we know it will end. Comlynx with a friend, or take on the dreaded Xybot warriors all alone.</desc>
+		<image>./images/Xybots (USA, Europe).png</image>
+		<thumbnail>./images/Xybots (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Zarlor Mercenary (USA, Europe).lnx</path>
+		<name>Zarlor Mercenary (USA, Europe)</name>
+		<desc>WANTED: Hot gun for hire. Travel to several exotic and dangerous places. Discover several exotic and dangerous aliens and kill them. Kill lots. For cash. Buy more weapons and kill again. Bring up to 3 friends along and kill even more.</desc>
+		<image>./images/Zarlor Mercenary (USA, Europe).png</image>
+		<thumbnail>./images/Zarlor Mercenary (USA, Europe).png</thumbnail>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+</gameList>
