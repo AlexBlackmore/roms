@@ -1,0 +1,806 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Ace of Aces (USA).a78</path>
+		<name>Ace of Aces (USA)</name>
+		<desc>Trump That Ace!
+
+It's World War II and Britain's Royal Air Force is up to its neck in Axis attacks. As one of the RAF's most aggressive pilots, you're in on flying the most crucial missions to stall the enemy.
+
+They attack by land, air, and sea. Your only allies are your DeHavilland Mosquito, your weapons, and your wits. Chase the Nazi bombers, sink the U-boats before they can dive, outrun the V-1 buzz bombs, and stop the POW trains from reaching the enemy lines.
+
+Choose your ammunition and fuel wisely -- once you're on a mission, there's no turning back. To be an Ace, you need four enemy defeats. To be Ace of Aces, you've got to be the best!</desc>
+		<image>./images/Ace of Aces (USA)-image.png</image>
+		<releasedate>19880601T000000</releasedate>
+		<developer>Artech Studios</developer>
+		<publisher>Atari</publisher>
+		<genre>Flight Simulator</genre>
+		<playcount>1</playcount>
+		<lastplayed>20160517T104924</lastplayed>
+	</game>
+	<game>
+		<path>./Alien Brigade (USA).a78</path>
+		<name>Alien Brigade (USA)</name>
+		<desc>The Plutoid Alien Zombie force has infiltrated the Army. They look like soldiers but are actually Aliens from outer space.
+
+You control a special task force to destroy the Aliens. As you shoot away at nasty enemies, you can earn powerful weapons, rescue hostages and most of all, stay alive. The challenge is there--beat the Aliens or you'll have to join them.</desc>
+		<image>./images/Alien Brigade (USA)-image.jpg</image>
+		<releasedate>19900702T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Asteroids (USA).a78</path>
+		<name>Asteroids (USA)</name>
+		<desc>Start blasting! It's your only way out of this cloud of hurtling astral bodies. Peripheral vision. Lightning reflexes. And cool control. That's what it takes to save your ship. And your life!
+
+ - 8 waves of devastating asteroids.
+ - For 1 or 2 players.
+ - Competing player ships can appear on screen simultaneously.</desc>
+		<image>./images/Asteroids (USA)-image.jpg</image>
+		<releasedate>19871101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Ballblazer (USA).a78</path>
+		<name>Ballblazer (USA)</name>
+		<desc>Ballblazer is a simple one-on-one sports-style game bearing similarities to basketball and soccer. Each side is represented by a craft called a "rotofoil", which can be controlled by either a human player or a computer-controlled "droid" with ten levels of difficulty. (The game allows for human vs. human, human vs. droid, and droid vs. droid matches.) The basic objective of the game is to score points by either firing or carrying a floating ball into the opponent's goal. The game takes place on a flat, checkerboard playfield, and each player's half of the screen is presented in a first-person perspective.</desc>
+		<image>./images/Ballblazer (USA)-image.jpg</image>
+		<releasedate>19880907T000000</releasedate>
+		<developer>Lucasfilm Games</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Barnyard Blaster (USA).a78</path>
+		<name>Barnyard Blaster (USA)</name>
+		<desc>You and Grandpa are down on the farm. There are critters, bottles, and varmints everywhere -- in the barn, in the yard, and in the cornfield. Grandpa has given you an Atari light gun to help protect the farm. The moving targets are a challenge. Can you hit them? If not, try the veggies! They're fun to shoot at.
+
+In the barnyard, bottles and cans on the fence provide great practive for warming up the old shootin' iron. But perfect aim alone isn't enough. You'll need speed, too.
+In the cornfield, birds swoop from the sky and rabbits scamper among the stalks, Owls and other pests appear inside a barn. Each scene can only be reached by hitting enough targest in the scene before. Once you zero in on some fancy shooting scores, Gramps offers you a bonus round by tossing target bottles in the air.</desc>
+		<image>./images/Barnyard Blaster (USA)-image.jpg</image>
+		<releasedate>19880605T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Basketbrawl (USA).a78</path>
+		<name>Basketbrawl (USA)</name>
+		<desc>Vinne and Slash are bleeding from knife wounds and the ref is out cold! No wonder the gang members nicknamed this game "Basketbrawl." To them, it's not a game -- it's a street fight. This premise kicks off Atari's action sports game for up to two players. The objective in Basketbrawl is to become the baddest gang in the town by winning the Basketbrawl tournament. To win, you must play three games against each of the five gangs in your city. Each time you move up to the next gang, you will play a team with more players and more dangerous weapons. Each game lasts six minutes -- out score you opponent by shooting more baskets. Each basket is worth two points. If the game is tied after six minutes, the first team to score wins</desc>
+		<image>./images/Basketbrawl (USA)-image.png</image>
+		<releasedate>19900603T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Centipede (USA).a78</path>
+		<name>Centipede (USA)</name>
+		<desc>A good port of the coin-op classic. The 7800 version also features competitive and cooperative 2-player modes.</desc>
+		<image>./images/Centipede (USA)-image.jpg</image>
+		<releasedate>19870601T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Choplifter! (USA).a78</path>
+		<name>Choplifter (USA)</name>
+		<desc>In Choplifter, the player assumes the role of a combat helicopter pilot. The player attempts to save hostages being held in prisoner of war camps in territory ruled by the evil Bungeling Empire. The player must collect the hostages and transport them safely to the nearby friendly base, all the while fighting off hostile tanks and other enemy combatants.</desc>
+		<image>./images/Choplifter! (USA)-image.jpg</image>
+		<releasedate>19870701T000000</releasedate>
+		<developer>Dan Gorlin</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20160518T094904</lastplayed>
+	</game>
+	<game>
+		<path>./Commando (USA).a78</path>
+		<name>Commando (USA)</name>
+		<desc>Experience the Ultimate in Combat Action...
+
+As the crack shot COMMANDO, you have been given the ultimate. mission. You alone must battle overwhelming odds to defend the free world from being taken over by advancing rebel forces.
+
+To make matters worse, much of the Allies heavy artillery has already been destroyed.You must carry out your solo or crusade through hostile territory armed with only a rifle, hand grenades, and raw courage.
+
+The odds for success seem hopelessly slim as enemy fire flies toward you from all directions and hidden rebel forces appear from caves, trenches, and strongholds to bar your progress. But the Allies are depending on your famous ingenuity, accuracy, and speed to help you break through the enemy lines. You must reach the fortress while collecting supplies from defeated outposts along the way.
+
+There can be no retreat - the fate of the free world is in your hands!</desc>
+		<image>./images/Commando (USA)-image.png</image>
+		<releasedate>19850919T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Crack'ed (USA).a78</path>
+		<name>Crack'ed (USA)</name>
+		<desc>As a professional ornithologist, you're thrilled to find out that some rare South American hornbills have nested in your "old yolk tree." But while the hornbills are out feeding, a group of mischievous bluebirds, owls, and snakes begin raiding their nests and stealing eggs.
+
+Horrified, you get out your slingshot and begin hitting the marauding creatures. But you have to be careful. If you hit an egg-carrying bird, it drops the egg and you have to act fast to catch it before it hits the ground and return it to a nest. At the same time, you have to watch for snakes that may be sneaking up to nests and gobbling eggs. If you can protect the eggs long enough, you can take them to another nesting site. But watch out, egg-stealing creatures are everywhere!</desc>
+		<image>./images/Crack'ed (USA)-image.jpg</image>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Robert Neve</developer>
+		<publisher>Atari</publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Crossbow (USA).a78</path>
+		<name>Crossbow (USA)</name>
+		<desc>Over scorching deserts, through dark icy caverns, around a fiery volcano, and under the leafy cover of a steamy jungle, you set out with three brave friends to retrieve the treasures stolen by the Evil Master.  Your goal is his castle far, far, away.
+
+Your friends are lightly armed, but you carry your trusty crossbow.  By shooting its swift arrows, you can save yourself and your companions from the dangerous attacks of the Evil Master's creatures -- scorpions, ants, pterodactyls, voracious plants, bats, snakes, and other horrible beings.
+
+When you reach the castle, the Evil Master's expert archers await you, ready to test their aim with deadly arrows.  Inside the castle, a fierce dragon also waits, guarding the treasure with its fiery breath.
+
+Few adventurers have dared to make the trek.  No one yet has come back alive.</desc>
+		<image>./images/Crossbow (USA)-image.jpg</image>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Exidy</developer>
+		<publisher>Atari</publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Dark Chambers (USA).a78</path>
+		<name>Dark Chambers (USA)</name>
+		<desc>You're on a dangerous treasure hunt, deep in the underground world of Dark Chambers. Wraiths, wizards, and moldering skeletons surround you. As you move through this meandering maze, you are stalked by the grim reaper.
+
+The exits you see only take you deeper into the maze. If you find the strategically placed weapons, you can fend off your enemies while you search for the hidden treasure. The secret potions you find along the way will renew your strength. But watch out for hidden traps and deadly poisons.
+
+Your strength will help you outlast the weaker ghouls, but are you a match for the strongest? Enter the underground world of Dark Chambers and find out.</desc>
+		<image>./images/Dark Chambers (USA)-image.jpg</image>
+		<releasedate>19880101T000000</releasedate>
+		<developer>John Palevich</developer>
+		<publisher>Atari</publisher>
+		<genre></genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Desert Falcon (USA).a78</path>
+		<name>Desert Falcon (USA)</name>
+		<desc>You are the royal Desert Falcon questing for precious gems and Egyptian heiroglyphs hidden in the endless desert. Invincibility, warp speed, and quick shots are only some of the many magical powers you'll gain on your search. Use them to capture a trove of treasures. But watch out for the evil ones! Mythical flying beasts, blazing firepots, and howling sphinxes guard the jewels you seek.</desc>
+		<image>./images/Desert Falcon (USA)-image.jpg</image>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Dig Dug (USA).a78</path>
+		<name>Dig Dug (USA)</name>
+		<image>./images/Dig Dug (USA)-image.jpg</image>
+		<releasedate>19880101T000000</releasedate>
+		<developer></developer>
+		<publisher>Atari</publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Donkey Kong (USA).a78</path>
+		<name>Donkey Kong (USA)</name>
+		<desc>Monkey Business on the Monkey Bars
+
+You are Mario, the fearless carpenter, and that big gorilla, Donkey Kong has run off with your girlfriend. Itâ€™s up to you to struggle up those ladders and balance on those beams to rescue your lady fair. Sheâ€™s held captive at the very top. But Donkey Kong is not ready to give her up so easily. Heâ€™s tossing barrels and fireballs at you at every turn. Itâ€™s up to you to outmaneuver that wily ape. Good luck, your lady awaits!</desc>
+		<image>./images/Donkey Kong (USA)-image.jpg</image>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Donkey Kong Junior (USA).a78</path>
+		<name>Donkey Kong Junior (USA)</name>
+		<desc>Donkey Kong the ape is back. Only this time the vengeful Mario is holding the ape prisoner. Luckily the ape has a son, Donkey Kong Junior, who will try to rescue Papa.
+
+To free his dad, Junior must make his way through a dark and treacherous jungle. Racing against time, the little fellow climbs and swings across vines, while avoiding the terrible Snapjaws.
+
+If he reaches the keys to Papa's cage, Junior must push them to the top of chains while staying clear of Snapjaws and a new flock of nasty Nitpickers. But even then his mission isn't over. Once he reaches Mario's hideout, he must pass yet another test against time.
+
+The kid needs help. Don't just stand there! Help poor Junior save his father!</desc>
+		<image>./images/Donkey Kong Junior (USA)-image.jpg</image>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Double Dragon (USA).a78</path>
+		<name>Double Dragon (USA)</name>
+		<desc>Twin brothers Billy and Jimmy Lee learned to fight the hard way -- for survival in the unforgiving city streets. Their brand of combat -- classic martial arts maneuvers mixed with anything-goes street brawling -- has turned them into walking lethal weapons.
+
+Now, the Lees must summon all their fighting abilities and cunning into meeting the greatest challenge of their lives -- rescuing Billy's girlfriend, Marion.  She's been kidnapped by the Black Warriors, the savage street gang led by the mysterious Shadow Boss.
+
+The twins pursue the Black Warriors through the city streets and its outskirts.  Finally they fight their way into the Secret Enemy Base.  There, Billy and Jimmy meet the Shadow Boss.  It's a battle to the finish, with Marion as the prize!</desc>
+		<image>./images/Double Dragon (USA)-image.jpg</image>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./F-18 Hornet (USA).a78</path>
+		<name>F-18 Hornet (USA)</name>
+		<desc>Attention all Naval Aviators! Report to your squadron leaders and prepare for deployment. Your tour of duty will take you around the world on some of the most challenging and dangerous missions of your career. F-18 Hornet is a carrier based adventure. Fast, solid 3-D graphics and responsive instrumentation make for an incredible sensation of flight. Fly missions through a variety of terrain executing aerial combat, emergency supply drops, strafing and bombing runs while battling hostile jets, helicopters and tanks. F-18 Hornet features all of the action of carrier based jets including thrilling aircraft carrier take-offs and landings in smooth 3-D animation.</desc>
+		<image>./images/F-18 Hornet (USA)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>John Van Ryzin</developer>
+		<publisher>Absolute Entertainment</publisher>
+		<genre>Flight Simulator</genre>
+	</game>
+	<game>
+		<path>./Fatal Run (USA).a78</path>
+		<name>Fatal Run (USA)</name>
+		<desc>The year is 2089. A collision with a comet has left the earth reeling from radiation poisoning. There's little hope for humanity's survival. It's up to you to help the few people remaining.
+
+You must leave the protective fortress Albagon and deliver the newly developed radiation vaccine to the few survivors. Your journey will not be an easy one. Nefarious henchmen are waiting to knock you off and steal the vaccine to ensure that they will survive to rule the planet. Every driver on the road is out to get you. Your only hope is to get them first.
+
+You must find the rocket poised to launch a satellite that can nullify the effects of this cosmic accident that turned the world upside down. If you're sharp enough to learn and remember the secret code words and tough enough to live to use them, you can launch the rocket and save the world!
+
+Good luck! Humanity is in your hands.</desc>
+		<image>./images/Fatal Run (USA)-image.jpg</image>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Fight Night (USA).a78</path>
+		<name>Fight Night (USA)</name>
+		<desc>Strap on your boxing gloves, and step into the ring.  Tonight you're going to test your prowess against the world's toughest fighters.  To prepare  for this event, you'll train in punching skills, footwork, timing, and sparring.  Then you'll enter your fighters in championship matches and tournaments.
+
+As the tension mounts in the smoke-filled arena, you eye your contender warily.  Be careful, and good luck.  This could be your big night!</desc>
+		<image>./images/Fight Night (USA)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Accolade</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Food Fight (USA).a78</path>
+		<name>Food Fight (USA)</name>
+		<desc>Hurry! Hurry! Step Right Up! Earn Your Just Desserts!
+
+Once there was a fellow named Charley Chuck. More than anything, Charley loved to eat. So when he went to the carnival one hot summer day, he headed straight for the Food Fight contest.</desc>
+		<image>./images/Food Fight (USA)-image.jpg</image>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Galaga (USA).a78</path>
+		<name>Galaga (USA)</name>
+		<desc>The gameplay of Galaga puts the player in control of a space ship which is situated on the bottom of the screen. At the beginning of each stage, the area is empty, but over time, enemy aliens fly in formation, and once all of the enemies arrive on screen, they will come down at the player's ship in formations of one or more and may either shoot it or collide with it. During the entire stage, the player may fire upon the enemies, and once all enemies are vanquished, the player moves onto the next stage.</desc>
+		<image>./images/Galaga (USA)-image.jpg</image>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Atari</publisher>
+		<genre></genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Hat Trick (USA).a78</path>
+		<name>Hat Trick (USA)</name>
+		<desc>What a night for a hockey game! After weeks of intensive training on the ice, you're finally at the face-off, waiting for the starting whistle. As the puck slides across the smooth, icy surface, you take it at center ice, managing to break over the blue line to your opponent's right. Whoooossh. What reflexes! What speed!
+
+The spray of the ice on your face momentarily blinds you, but you continue to skate furiously, weaving towards the opposing goal. You can feel your challenger's hot breath on the back of your neck, as the distance between you grows smaller and smaller. But before he can manage to steal the puck, you swing your stick and whack -- it's a slapshot! The point is yours!
+
+Get three goals in a game, and it's a hat trick!</desc>
+		<image>./images/Hat Trick (USA)-image.jpg</image>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Bally Sente</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Ikari Warriors (USA).a78</path>
+		<name>Ikari Warriors (USA)</name>
+		<desc>You are a member of those elite combat specialists, the Ikari Warriors.  Your buddy and you are on a special mission behind enemy lines, and you've been sleeping, eating, and breathing jungle combat for the last two weeks.  You're tired, but that never affects your razor-sharp judgment and your will to survive.  
+
+Your main weapons are machine guns, grenades, and your own cunning in the face of danger.  Sometimes you'll have a tank at your disposal, which comes in handy when enemy fire is particularly brutal.  
+
+You move swiftly through the jungle, wading through rivers and resting from time to time within the ruins of bombed-out buildings.  You're running out of ammunition and grenades, but you know the battle can't last forever.  Sooner or later, one side is going to emerge victorious.  Let's just hope it's yours!</desc>
+		<image>./images/Ikari Warriors (USA)-image.jpg</image>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Impossible Mission (USA).a78</path>
+		<name>Impossible Mission (USA)</name>
+		<desc>Message from the Agency computer..... "....Your mission. Agent 4125 is to foil a horrible plot. From an underground laboratory, Elvin. the scientist, is holding the world hostage under threat of nuclear annihilation. You must penetrate his stronghold, avoid his human-seeking robots and find pieces of the security code.
+Somersault over the robots or use a precious snooze code to deactivate them long enough to search each room. Use the Agency's computer to unscramble the passwords from the code pieces, or try solve them yourself. You'd better beware....This mission is stamped IMPOSSIBLE!"</desc>
+		<image>./images/Impossible Mission (USA)-image.jpg</image>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Jinks (USA).a78</path>
+		<name>Jinks (USA)</name>
+		<desc>You are about to embark on one of the most dangerous missions of your career. As a renowned Star Fleet pilot, you have been selected to command an exploration party in a journey across the galaxy to investigate the mysterious planet JINKS. An enigma for centuries, JINKS is a lush, resource-rich world, and could be the key to the desperate need for human expansion in space. It is apparently capable of supporting life, yet it is curiously uninhabited--or is it?
+ A routine research mission goes haywire when scouting your probe across the planet's surface leads you and your crew into a deadly game of cat and mouse. Can you escape from these fiendishly clever traps before your probe and its occupants are miniaturized or annihilated?</desc>
+		<image>./images/Jinks (USA)-image.jpg</image>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Softgold</developer>
+		<publisher>Atari</publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Joust (USA).a78</path>
+		<name>Joust (USA)</name>
+		<desc>Joust is a platforming game where the player controls a yellow knight riding a flying ostrich from a third-person perspective. The player navigates the protagonist around the game world, which consists of rock platforms floating above a flat island surrounded by lava.</desc>
+		<image>./images/Joust (USA)-image.jpg</image>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Williams</developer>
+		<publisher>Atari</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Karateka (USA).a78</path>
+		<name>Karateka (USA)</name>
+		<desc>Returning home after years of study under a Master of Karate, you find your village burned to the ground. Your friends and family are scattered, your bride-to-be stolen by Akuma, the warlord whose oppressive shadow has darkened your village since before you were born.
+
+Your grief and rage turn to cold determination. You vow never again to submit to the evil warlord. You know you must avenge your village and rescue your beloved Princess Mariko from Akumaâ€™s mountain fortress.
+
+Alone, armed only with your knowledge of Karate, you must outfight Akumaâ€™s vicious warriors, each one more powerful than the last. Fight on, deep into the heart of the palace, where to rescue Mariko you must confront the cruel Akuma himself in hand-to-hand combat.
+
+Put fear and self-concern behind you. Focus your will on your objective, accepting death as a possibility, and do what you have chosen to do. This is the Way of the Karateka.</desc>
+		<image>./images/Karateka (USA)-image.png</image>
+		<releasedate>19840701T000000</releasedate>
+		<developer>Jordan Mechner</developer>
+		<publisher>BrÃ¸derbund</publisher>
+		<genre>Fighting</genre>
+	</game>
+	<game>
+		<path>./Kung-Fu Master (USA).a78</path>
+		<name>Kung Fu Master (USA)</name>
+		<desc>The gorgeous Princess Victoria is imprisoned in the Evil Wizard's Temple.  As Kung-Fu Master, you must free her.  Unfortunately, the Temple's five tortuous levels are seething with menacing foes. 
+
+Smash your way through one level and start the next with a renewed energy meter and timer. Once you free your Princess, it's back to the beginning where your foes return faster and nastier.</desc>
+		<image>./images/Kung-Fu Master (USA)-image.jpg</image>
+		<releasedate>19890601T000000</releasedate>
+		<developer>Data East, Irem</developer>
+		<publisher>Absolute</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Mario Bros. (USA).a78</path>
+		<name>Mario Bros. (USA)</name>
+		<desc>Mario the carpenter and his brother Luigi are at it again! This time they must rid their house of crawling pests!
+
+These bizarre creatures have names like Shellcreeper, Sidestepper, and Fighterfly. Test your skills as you bump these pesky bugs off brick floors into the water below. But beware of Slipice the Iceman. You must stop him before he covers the floors with a treacherous layer of slippery ice!
+
+Collect as many coins as you can.</desc>
+		<image>./images/Mario Bros. (USA)-image.jpg</image>
+		<releasedate>19880707T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Mat Mania Challenge (USA).a78</path>
+		<name>Mat Mania Challenge (USA)</name>
+		<desc>Wouldn't you know it, you drew Bruno the Sledge, five time champion and all-around bad guy, as your first opponent in your quest for that elusive Atari Wrestling Federation championship belt. Ever since he lost his title to Eric the Flaxen Saxon, Bruno's been terrorizing the AWF circuit.
+
+Bruno the Sledge glares at you with his one remaining eye. When the bell rings, he charges like a man insane. Just before the impact of his 386-pound body, you step aside and raise your elbow.
+
+Perfect elbow smash! Bruno falls to the mat. You get him in a head lock, but his shaved head slips free. Then you see it. The famous Bruno the Sledge "Eye of Terror," the look of death. You're in trouble now!
+
+Mat Mania Challenge provides all the thrills and spills of professional wrestling. Do you have what it takes to survive brain busters and pile drivers? If you have the skills, the championship belt will be yours!</desc>
+		<image>./images/Mat Mania Challenge (USA)-image.jpg</image>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Mean 18 Ultimate Golf (USA).a78</path>
+		<name>Mean 18 Ultimate Golf (USA)</name>
+		<desc>This is it! A hush falls over the California countryside as you stand on the eighteenth hole of Pebble Beach. Youâ€™re five long feet from the hole and you have a one-stroke lead in the biggest tournament of your life. Your caddy hands you your lucky putter. You line up your shot, and swing. The ball rolls slowly toward the hole. Thereâ€™s a tense moment as it almost rings the cup. finally, the ball falls in. You retain your title!</desc>
+		<image>./images/Mean 18 Ultimate Golf (USA)-image.jpg</image>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Accolade</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Meltdown (USA).a78</path>
+		<name>Meltdown (USA)</name>
+		<desc>Donâ€™t panic! A gang of international terrorists has systematically set about destroying the world. They have sabotaged a number of nuclear reactors by unleashing a deadly string of â€˜sparkxâ€™ that will break down the protective control rods and make their way into the very core of each reactor. If the sparkx reach the core, the end result will be a dreaded meltdown. It the terrorists are successful in their hideous plot, we can kiss this world goodbye!
+
+Only you stand between life as we know it and total annihilation. You are armed with a specially engineered sparkx-destroying gun, a blueprint of each reactor, your wits, and your desire to save the world. Get moving. Thereâ€™s no time to lose!</desc>
+		<image>./images/Meltdown (USA)-image.jpg</image>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Midnight Mutants (USA).a78</path>
+		<name>Midnight Mutants (USA)</name>
+		<desc>Can you save Grampa from Plasmic Prison
+
+7800 Arcade adventure like you've never seen before. This game has it all places like rivers, deep dark forests, creepy caverns, labs, creatures like Vampires, Mutant zombies and menacing bats. Your adventure includes exploring large areas and finding awesome weapons. A press of a button brings instant on-screen hints and tips.
+
+It all adds up to awesome action with mega Graphics. Grampaâ€™s back, itâ€™s up to you to wipe out the Monsters and clean up.</desc>
+		<image>./images/Midnight Mutants (USA)-image.jpg</image>
+		<releasedate>19901010T000000</releasedate>
+		<developer>Radioactive Software</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Motor Psycho (USA).a78</path>
+		<name>Motor Psycho (USA)</name>
+		<desc>You finished it at last!  And now you are going crazy waiting to test your sleek, hot, fast customized bike.  It absorbs your every waking moment, you dream about it every night.  It has become an obsession.  And you know just the place to try it out.
+
+The annual MotorPsycho Competition (for deranged, psychopathic, and other unusual biker types) is this weekend!  Its obstacle-laden course is legendary among motorcycle maniacs.  Of course, nobody in their right mind would attempt this course.  The die-hard spectators remind you that fan is short for fanatic. They've staked out their favorite spots to view the races, and they are waiting for the roar of revving engines, the squeal of tires, the crunch of metal...
+
+It's you against the clock and your bike is built for speed.  All you need to do is point it in the right direction and go for it!
+
+Four different tracks will separate the veterans from the rookies.  (Or the schizophrenics from the psychotics.)  Weekend amateurs will eat your dust, but you've got some pretty insane competition from your fellow, uh, pros.  Some of these guys look hungry for the sweet taste of victory, but some of them look hungry for the taste of raw meat!
+
+So rev 'er up and let 'er rip!  The winner's circle (or the guy with the clean white coat) awaits.</desc>
+		<image>./images/Motor Psycho (USA)-image.jpg</image>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Racing</genre>
+	</game>
+	<game>
+		<path>./Ms. Pac-Man (USA).a78</path>
+		<name>Ms. Pac-Man (USA)</name>
+		<image>./images/Ms. Pac-Man (USA)-image.jpg</image>
+		<releasedate>19880101T000000</releasedate>
+		<developer></developer>
+		<publisher>Atari</publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Ninja Golf (USA).a78</path>
+		<name>Ninja Golf (USA)</name>
+		<desc>For ten years you've trained to be a Ninja. And now your Master tells you that it's time to take the final, most difficult test and become a Master Ninja. You must complete the game of death. You must play nine holes of... Ninja Golf?
+
+You knew your Master was a bit weird, but nothing prepared you for this! You must attempt to sneak in a birdie between karate kicks while you battle Ninja opponents. Par for this course means leaving the green littered with fallen foes.
+
+You gain points for both your golf game and defeating attacking Ninja. You can also earn points for finding treasures and other bonus items along the course.
+
+Once you've completed all nine holes successfully, be ready to challenge the disguised Master Ninja. This final battle will determine whether or not you become a Master Ninja. And if you win, it will improve your golf score.</desc>
+		<image>./images/Ninja Golf (USA)-image.jpg</image>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./One-on-One Basketball (USA).a78</path>
+		<name>One-on-One Basketball (USA)</name>
+		<desc>You're out on a dream court for a hot game of One-on-One. You're the Bird. Or you're Dr. J. And that's the last decision you'll have much time to make. You can play against the computer of challenge a friend. Your capabilities -- and your opponent's -- will be just like those of All-Stars Larry Bird and Julius (Dr. J) Erving. The computer knows their shooting percentages (guarded and unguarded) and their pet shots. Your scoring ability will depend on your timing, how effectively you're being guarded, and where you're shooting from. Like the game of basketball itself, One-on-One rewards you for playing with your head as well as your hands. Master the joystick moves, sharpen your timing, hone your reflexes until you can handle the Pro level... and don't let the other guy out-think you.</desc>
+		<image>./images/One-on-One Basketball (USA)-image.jpg</image>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Pete Rose Baseball (USA).a78</path>
+		<name>Pete Rose Baseball (USA)</name>
+		<desc>It's the last game of the World Series. You're in the 9th innings. Bases loaded. One out. And your up to bat.
+
+What do you do? Swing away? Wait for a walk? Go for the fences? It's all up to you, just like in real pro ball.
+
+Sure, we'll give you the options. And some tips. Like in pitching. Batting. And Fielding. But, it's you call .
+
+There are 6 full-color, live action screens - just like the ones you see on TV! The pitching/battting screen, left infield, right infield, leftfield, centerfield and rightfield.
+
+So, start warming up. Step up to the plate. And take your best swing at winning
+the series!
+
+Originally designed by Alex DeMeo, the 7800 version was programmed by Robert Curtiss.</desc>
+		<image>./images/Pete Rose Baseball (USA)-image.jpg</image>
+		<releasedate>19890527T000000</releasedate>
+		<developer>Robert Curtiss</developer>
+		<publisher>Absolute Entertainment</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Planet Smashers (USA).a78</path>
+		<name>Planet Smashers (USA)</name>
+		<desc>Planet Smashers finally delivered an original 2D Shooter to the Pro System late in its life. Your spaceship, which oddly looks like an airplane, has the grave task of defending Earth from an alien armada. Planet Smashers has some nice features like level warp codes, laser upgrades, cloaking devices, and interesting bosses. You even have the burden of defending Earth's shield from asteroids and alien ships. The back of the box boasts, "awesome sound effects", but the main laser noise is mind-numbingly irritating. After you defeat the game, you are treated to a text ending commanding you to play Alien Brigade, which makes little sense since you just defeated the alien mothership.</desc>
+		<image>./images/Planet Smashers (USA)-image.jpg</image>
+		<releasedate>19890527T000000</releasedate>
+		<developer>James V. Zalewski</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Pole Position II (USA).a78</path>
+		<name>Pole Position II (USA)</name>
+		<desc>Are you good enough to race with the best? Do you have the nerve and skill to be a professional race car driver? You are about to find out! Behind the wheel of your sleek Formula I race car you will pit yourself against the clock and the world's top racers to win the Pole Position II, the number one starting spot.
+
+To enter the Grand Prix itself, you'll have to race at hair-raising speeds to complete the Qualifying Lap in 73 seconds or less. Then choose from four courses, ranging from the relatively innocuous Test course to the perilous Suzuka track.
+
+Test your racing skills as you tear around treacherous curves, maneuver your way out of dangerous skids, and veer around hazardous obstacles. Go flat out to beat the track record and you'll be the Grand Prix winner!</desc>
+		<image>./images/Pole Position II (USA)-image.jpg</image>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Atari</publisher>
+		<genre>Racing</genre>
+	</game>
+	<game>
+		<path>./Rampage (USA).a78</path>
+		<name>Rampage (USA)</name>
+		<desc>Smash. Bash. Trash.
+
+Crunch the Concrete! Snack on a Soldier! Trash a Trolley! Join arcade legends George the Ape, Ralph the Wolf and Lizzie the Lizard on a mission of mass destruction from coast to coast. Go on a RAMPAGE!</desc>
+		<image>./images/Rampage (USA)-image.jpg</image>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./RealSports Baseball (USA).a78</path>
+		<name>RealSports Baseball (USA)</name>
+		<desc>You smell the freshly cut grass as you walk out of the dark, cool tunnel into the hot afternoon sun. You hear the crack of leather on wood as the team's power hitter takes batting practice. Today's the day -- you're starting in the big leagues. After warming up in the bullpen, you're ready to take the mound. You get a few last-minute instructions from the pitching coach, and then it's time. Slowly you walk to the center of the diamond. The batter steps in, and you're ready to play ball!</desc>
+		<image>./images/RealSports Baseball (USA)-image.jpg</image>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Robotron - 2084 (USA).a78</path>
+		<name>Robotron: 2084 (USA)</name>
+		<desc>At first it was a technological breakthrough. Humans created the Robotrons -- a species of robots so advanced they didn't need their inventors in order to think and act. But the Robotrons have turned on their creators! They're now determined to destroy humanity -- or reprogram the survivors, turning them into destructive mutants!</desc>
+		<image>./images/Robotron - 2084 (USA)-image.jpg</image>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Williams Electronics</developer>
+		<publisher>Atari</publisher>
+		<genre></genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Scrapyard Dog (USA).a78</path>
+		<name>Scrapyard Dog (USA)</name>
+		<desc>Can Louie save his pooch from becoming Dogmeat?
+
+Our friend Louie loved his dog. But why would some thugs Poochnap this poor puppy? The thugs want the deed to the scrapyard, Will Louie stand for this?
+
+It's up to you and Louie to survive over 15 levels of danger and find the ultimate bad dude, Mr. Big.
+
+Scrapyard Dog features graphics and sound that push all the limits. It's part of the power that Atari brings you.</desc>
+		<image>./images/Scrapyard Dog (USA)-image.jpg</image>
+		<releasedate>19900101T000000</releasedate>
+		<developer>BlueSky Software</developer>
+		<publisher>Atari</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Sentinel (Europe).a78</path>
+		<name>Sentinel (USA)</name>
+		<desc>You're a scientist, and your invention, a pulsating, glowing orb called the Sentinel, absorbs and stores energy from a variety of sources. Now Earth is threatened by deadly aliens and you must use your creation to save the planet. The Sentinel absorbs energy from every power pod or energy capsule you shoot with your Atari light gun. When an energy source is hit, a beam blasts out from the Sentinel, strikes the target with hissing force, and draws energy back into your Sentinel. It's up to you to protect the Sentinel as it glides over the planets.
+
+This was the only game for the 7800 that was originally released in PAL format only. Thanks to ResQsoft, an NTSC version is also available for gamers in the Western Hemisphere. Sentinel is a light gun game that is similar to Crossbow in the aspect that you are in charge of protecting your ally, in this case the Sentinel, from attack. The game features four stages, each which its own name and level boss. What makes the game unique is that shooting the large orange Sentinel acts as a smart bomb, destroying everything on the screen. While Sentinel is a very hard title to find in the wild in the Americas, this game is pretty common in Europe and can normally be purchased through online auctions at a reasonable price.</desc>
+		<image>./images/Sentinel (Europe)-image.jpg</image>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre></genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Summer Games (USA).a78</path>
+		<name>Summer Games (USA)</name>
+		<desc>Experience the power, the glory, the thrill and the challenge of the world's greatest athletic competition: the SUMMER GAMES!
+
+The awe-inspiring OPENING CEREMONY focuses on 3,000 years of noble tradition as you proudly look on, ready to give your very best to honor your country.
+
+This is the moment you've worked and trained so long to achieve, to test your skill under pressure against the best of the world's athletes.  You will try to excel in a whole spectrum of sports events - in track and field, swimming and diving, gymnastics, and skeet shooting.
+
+Boldness.  Skill.  Strategy.  Determination.  The marks of the true champion. If you are victorious, you'll receive the champion's prize - the coveted GOLD MEDAL - before the cheering multitude.  Your triumph might even go down in history as the greatest personal performance ever!
+
+Seize the moment! Prepare for the ultimate challenge! Taste the fruits of hard labor. Give it your best and GO FOR THE GOLD!</desc>
+		<image>./images/Summer Games (USA)-image.jpg</image>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Super Huey UH-IX (USA).a78</path>
+		<name>Super Huey UH-IX (USA)</name>
+		<desc>A port of the 1985 Cosmi home computer game, Atari released this for the 7800 in 1988. This is a decent helicopter combat game, in which you pilot a Super Huey UH-IX.</desc>
+		<image>./images/Super Huey UH-IX (USA)-image.jpg</image>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Cosmi Corporation</developer>
+		<publisher>Atari</publisher>
+		<genre>Flight Simulator</genre>
+	</game>
+	<game>
+		<path>./Super Skateboardin' (USA).a78</path>
+		<name>Super Skateboardin' (USA)</name>
+		<desc>Your Dad got you an after-school job at the factory where he works.  You need the money 'cuz being the most radical boarder around means you've got heavy expenses.
+
+The job is a skateboarder's dream come true.  Miles of halls and tubes to perfect your moves.  Just cruise through and turn off all the machines and lights in the factory.  Hurry up 'cuz power is leaking out fast!
+
+Naturally, there's a catch.  You get paid depending on how much power you save.  And you've got to be out of the factory by 5:15 pm today.  One second more and you'll never make the deadline for entering the Skateboarding Championship.</desc>
+		<image>./images/Super Skateboardin' (USA)-image.jpg</image>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Absolute Entertainment</developer>
+		<publisher>Absolute Entertainment</publisher>
+		<genre>Racing</genre>
+	</game>
+	<game>
+		<path>./Tank Command (USA).a78</path>
+		<name>Tank Command (USA)</name>
+		<desc>Tank Command is a vertically scrolling action game. You control a tank on a mission to capture the enemy flag as well as earn as many points as possible. To do this, you will need to blast your way through their defenses on three levels of increasing difficulty. Blocking your progress are enemy tanks, pillboxes, missiles, jeeps, infantry, huts, and more, all of which earn you points when destroyed. Your tank is equipped with a limited amount of fuel and ammo, however it can be replenished occasionally by collecting the bonus icons when they appear on the screen. If you can make it past all of the obstacles and capture the flag, then you win the game!
+
+The 7800 is pretty much void of super-rare games like the 2600'?s Tooth Protectors and Chase the Chuckwagon, but don't worry, tracking down Tank Command in a box will cost you a pretty penny. As far as gameplay goes, Tank Command is not going to blow anyone away. Here you have a vertical scroller like Commando or Ikari Warriors minus the charm, quality level design, and reasonable difficulty. There are only three levels in the game, but just like its Froggo cousin Water Ski, the difficulty ramps so severely after the mindless first level that continuing takes strong will. The pink terrain is a bit odd, as well. Tank Command was only released in NTSC format.</desc>
+		<image>./images/Tank Command (USA)-image.jpg</image>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Froggo Games</developer>
+		<publisher>Froggo Games</publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Title Match Pro Wrestling (USA).a78</path>
+		<name>Title Match Pro Wrestling (USA)</name>
+		<desc>FEATURING TAG-TEAM
+Calling all wrestling maniacs! Tonight's the title match! Climb into the ring and strut your stuff - mix it up with some of the world's most savage wrestlers as you compete for the "Absolute Title Belt".
+
+But prepare yourself for Skin Head's pulverizing rope dives, Mad Dog's vicious airplane spins, Big Chief's bone crushing bear hugs and Mr. Mean's paralyzing body slams.
+
+The sizzling action never stops, whether you battle it out one-on-one, or go to war for the Tag Team Belt. And after it's all aver, if you think you're really good, match yourself against the computer to see who's the ultimate ring warrior.</desc>
+		<image>./images/Title Match Pro Wrestling (USA)-image.jpg</image>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Alec DeMeo</developer>
+		<publisher>Absolute Entertainment</publisher>
+		<genre></genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Tomcat - The F-14 Fighter Simulator (USA).a78</path>
+		<name>Tomcat: The F-14 Fighter Simulator (USA)</name>
+		<desc>Become a F-14 Naval Aviator undergoing seek and destroy missions while dodging and gunning enemy bogeys in deadly dogfights with your 20mm cannon and air-to-air missiles.
+
+Your cockpit comes with state of the art technology, courtesy of the U.S. Air Force: Display and main computer, Bogey Alert Indicator, G-Force Indicator, Electronic Counter Measures, and a Cannon Overheat Indicator (yes, it can overheat!)...and if your feeling up to it, give the ol'bird a boost to Mach 1.0!
+
+The gameplay like other simulation games consists of taking off, flying, combat and landing. Though most of the gameplay focuses around dogfighting with enemy bogeys (dodging missiles). In addition to that, there are also night-flying missions that add difficulty due to limited vision.
+
+Taking off and landing however, also requires additional skill as your doing it on the USS Enterprise (No relation to Star Trek), not on your standard airstrip. Pay attention to the F.D. officer as your preparing to take off (since he's the boss when it comes to this stuff...and try not to run over him...yet).
+
+Your weaponry consists of a M 61 Machine Gun and 3 different AIM Missiles (AIM 7, 9, 54) each packed with 15 missiles (that's a lot of missiles!).
+
+After each mission you will receive a Mission Rating which is based on your flying skill, number of bogey kill and number of weapons fired.</desc>
+		<image>./images/Tomcat - The F-14 Fighter Simulator (USA)-image.jpg</image>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Dan Kitchen</developer>
+		<publisher>Absolute Entertainment</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Touchdown Football (USA).a78</path>
+		<name>Touchdown Football (USA)</name>
+		<desc>It's fourth and long with less than a minute remaining in the game.  The winner gets a wild card berth in the playoffs.  You're down by a field goal. Your quarterback makes a perfect pass, your receiver is wide open, and then you see the referee's arms fly up signaling the touchdown.  You're going to the playoffs.</desc>
+		<image>./images/Touchdown Football (USA)-image.jpg</image>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Tower Toppler (USA).a78</path>
+		<name>Tower Toppler (USA)</name>
+		<desc>A serious problem is blocking attempts to colonize the otherwise life-compatible planet Nebulus: it's water is poisonous! The only way to return the water to its harmless, natural form is to destroy the eight enormous towers that maintain a mysterious, lethal hold over all forms of this valuable resource.
+
+Spurred to action by the needs of your dangerously overpopulated home planet, you must attempt to conquer these alien-forsaken relics once and for all. But it won't be easy! You'll have to climb each tower all the way to the top in order to detonate its vulnerable spot. And, succeeding towers are more difficult to topple!
+
+You'll need all your wits about you to avoid huge, crushing boulders, giant eyes, and indestructible mutant molecules! And watch out for those slippery stairs and disintegrating ledges. One false step and you'll plummet to the depths below!</desc>
+		<image>./images/Tower Toppler (USA)-image.jpg</image>
+		<releasedate>19880101T000000</releasedate>
+		<developer>U.S. Gold</developer>
+		<publisher>Atari</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Water Ski (USA).a78</path>
+		<name>Water Ski (USA)</name>
+		<desc>In Water Ski you are water skiing on the Pharonna River. You control both the boat and skier in this vertically scrolling action game. Your goal is to reach the finish line before time runs out and also to earn as many points as possible. The river is quite dangerous, and features many twists and turns along with rocks, logs and other obstacles. For bonus points there are numerous ramps located throughout the river which your skier can jump over (and if you can manage to ski over every ramp on the level, you'll earn even more points!). You start the game with four skiers, and the game ends when all of you skiers have crashed.</desc>
+		<image>./images/Water Ski (USA)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19880527T000000</releasedate>
+		<developer>Froggo Games Corporation</developer>
+		<publisher>Froggo Games Corporation</publisher>
+		<genre>Sports</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Winter Games (USA).a78</path>
+		<name>Winter Games (USA)</name>
+		<desc>You're an athlete at the 1988 Winter Games at Calgary, Alberta, Canada. You're about to move across snow and ice with as much speed, strength, endurance and grace as you can muster in the blustery cold.
+
+This is the winter portion of the world's foremost amateur sports competition. You'll match your skills against the top athletes.
+
+Be proud. Today you stand among the elite few whose courage and stamina will be tested by these Winter Games. Listen. A fanfare of trumpets sound as thousands of white doves are releases, symbolically to fly to the countries of the world with the message of peace -- and the news that the Winter Games have begun. This is it -- your chance to go for the gold!</desc>
+		<image>./images/Winter Games (USA)-image.jpg</image>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Xenophobe (USA).a78</path>
+		<name>Xenophobe (USA)</name>
+		<desc>Hostile aliens - Xenophobes - are infesting space stations vital to your planet's security.  These aliens threaten to overrun the stations, rendering the space stations useless.
+
+You are part of an elite team who is ready to speed to these endangered space stations.  Your mission is clear: destroy the aliens, regain control of the space stations, and pick up any valuable hardware you might discover as you sweep the stations for aliens.
+
+The aliens are a swarming band of uglies, straight out of your worst nightmare. You'll need to use your talent just to stay alive as you rid each space station of these pests.  You don't want to let them catch you.  It's them or you.
+
+The message has come.  It's up to you and your teammates to cleanse each space station of aliens.  Your Mother Ship brings you to the vicinity of each overrun space station.  You then enter the space station via a transfer disk.
+
+Team up with another member of your elite squad, or work on your own to clear the aliens from an infested space station.  Just be careful as you enter a space station.  The aliens are everywhere!</desc>
+		<image>./images/Xenophobe (USA)-image.jpg</image>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>Atari</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Xevious (USA).a78</path>
+		<name>Xevious (USA)</name>
+		<desc>It's a nightmare, but it's true! Research shows that we are the actual aliens on Earth, and the ruthless Xevions are the original inhabitants.
+
+Now the Xevions want Earth back -- minus humans! Their invasion forces are fierce -- the land is crawling with deadly Domogram Rovers; the sky is black with Toroid Patrol Fleets and Zoshi Death Squads.
+
+Our puny weapons offer no defense. Earth's only hope is our powerful new Solvalou Fighter Plane. Its pilot will have a single mission: Penetrate the enemy ranks and destroy the Xevious Mother Ship.
+
+The mission is dangerous. We can't guarantee success. But at this point, it's do or die!
+
+One small problem. We still need a pilot. Any volunteers?</desc>
+		<image>./images/Xevious (USA)-image.jpg</image>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Atari</publisher>
+		<genre></genre>
+		<players>2</players>
+	</game>
+</gameList>
